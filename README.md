@@ -51,9 +51,6 @@ Civic issue reporting tool that uses the Gemini API to classify danger levels of
 `Python` `Streamlit` `Gemini API` `python-docx` `Pillow`
 > Built at the Summer of Code Hackathon (GDGoC AITR & ACM AITR)
 
-#### [AI-Based Internship Recommendation Engine](https://github.com/aliaamir/internship-recommender)
-FastAPI service that matches student profiles to internships using TF-IDF vectorization and cosine similarity, with a weighted scoring model combining skills match, interest alignment, and academic eligibility.
-`FastAPI` `Pandas` `Scikit-learn`
 
 #### [Deep Packet Inspection (DPI)](https://github.com/aliaamir/deep-packet-inspection)
 <!-- Add a 1–2 line description of what this project actually does — packet capture/classification, protocol identification, tools used, etc. -->
