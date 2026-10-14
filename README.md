@@ -46,13 +46,13 @@
 
 ### 🚀 Featured Projects
 
-#### [RoadAlert AI](https://github.com/aliaamir/road-alert)
+#### [RoadAlert AI](https://github.com/AliAamir-13/road-alert)
 Civic issue reporting tool that uses the Gemini API to classify danger levels of potholes, broken streetlights, and similar road hazards from user-submitted reports, and auto-generates formal complaint letters to municipal corporations.
 `Python` `Streamlit` `Gemini API` `python-docx` `Pillow`
 > Built at the Summer of Code Hackathon (GDGoC AITR & ACM AITR)
 
 
-#### [Deep Packet Inspection (DPI)](https://github.com/aliaamir/deep-packet-inspection)
+#### [Deep Packet Inspection (DPI)](https://github.com/AliAamir-13/deep-packet-inspection)
 <!-- Add a 1–2 line description of what this project actually does — packet capture/classification, protocol identification, tools used, etc. -->
 `Python` `Networking`
 
