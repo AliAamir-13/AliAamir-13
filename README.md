@@ -76,6 +76,6 @@ FastAPI service that matches student profiles to internships using TF-IDF vector
 
 ### 🔗 Connect
 <p align="left">
-<a href="https://linkedin.com/in/AliAamir-13"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ali-aamir-793587338"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aliaamir8804@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
