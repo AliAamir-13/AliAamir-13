@@ -46,7 +46,7 @@
 
 ### 🚀 Featured Projects
 
-#### [RoadAlert AI](https://github.com/AliAamir-13/road-alert)
+#### [RoadAlert AI](https://github.com/AliAamir-13/RoadAlert-AI)
 Civic issue reporting tool that uses the Gemini API to classify danger levels of potholes, broken streetlights, and similar road hazards from user-submitted reports, and auto-generates formal complaint letters to municipal corporations.
 `Python` `Streamlit` `Gemini API` `python-docx` `Pillow`
 > Built at the Summer of Code Hackathon (GDGoC AITR & ACM AITR)
